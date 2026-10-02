@@ -98,3 +98,4 @@ Add screenshots of the Power BI dashboard here.
 ### Deep Dive
 
 <img width="842" height="486" alt="HR attrition 2 Deep Dive" src="https://github.com/user-attachments/assets/4c36f901-f7e6-4e5a-85e0-452ac2185c16" />
+
