@@ -92,10 +92,17 @@ Examples of analytical measures include:
 Add screenshots of the Power BI dashboard here.
 ### Overview
 
-<img width="770" height="494" alt="HR Attrition 1 Overview" src="https://github.com/user-attachments/assets/da337654-4122-488d-9fc8-fbf2c70bf6c4" />
 
+## 1. Dashboard Overview
 
-### Deep Dive
+![HR Attrition Dashboard - Overview](https://github.com/user-attachments/assets/58d1695b-d99f-4edb-b431-55d1d5ab4c9d)
 
-<img width="842" height="486" alt="HR attrition 2 Deep Dive" src="https://github.com/user-attachments/assets/4c36f901-f7e6-4e5a-85e0-452ac2185c16" />
+## 2. Attrition Deep Dive
 
+![HR Attrition Dashboard - Deep Dive](https://github.com/user-attachments/assets/4c36f901-f7e6-4e5a-85e0-452ac2185c16)
+
+## Tools & Technologies
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
